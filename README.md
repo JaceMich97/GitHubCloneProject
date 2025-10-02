@@ -1,1 +1,1 @@
-Project goal: greet users (main branch change)
+Project goal: greet users (merged change)
