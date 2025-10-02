@@ -1,1 +1,1 @@
-This is the description of my repo
+Project goal: greet users (main branch change)
